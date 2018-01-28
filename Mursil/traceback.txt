@@ -1,0 +1,37 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+IOError: Couldn't find file 'main-menu-theme.ogg'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "renpy/common/_layout/screen_main_menu.rpym", line 28, in script
+    python hide:
+  File "/home/apjansing/renpy-6.99.14-sdk/renpy/ast.py", line 848, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/home/apjansing/renpy-6.99.14-sdk/renpy/python.py", line 1804, in py_exec_bytecode
+    exec bytecode in globals, locals
+  File "renpy/common/_layout/screen_main_menu.rpym", line 35, in <module>
+    ui.interact()
+  File "/home/apjansing/renpy-6.99.14-sdk/renpy/ui.py", line 287, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "/home/apjansing/renpy-6.99.14-sdk/renpy/display/core.py", line 2620, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, **kwargs)
+  File "/home/apjansing/renpy-6.99.14-sdk/renpy/display/core.py", line 3242, in interact_core
+    renpy.audio.audio.periodic()
+  File "/home/apjansing/renpy-6.99.14-sdk/renpy/audio/audio.py", line 976, in periodic_thread_main
+    periodic_pass()
+  File "/home/apjansing/renpy-6.99.14-sdk/renpy/audio/audio.py", line 920, in periodic_pass
+    c.periodic()
+  File "/home/apjansing/renpy-6.99.14-sdk/renpy/audio/audio.py", line 409, in periodic
+    topf = load(self.file_prefix + filename + self.file_suffix)
+  File "/home/apjansing/renpy-6.99.14-sdk/renpy/audio/audio.py", line 69, in load
+    rv = renpy.loader.load(fn)
+  File "/home/apjansing/renpy-6.99.14-sdk/renpy/loader.py", line 548, in load
+    raise IOError("Couldn't find file '%s'." % name)
+IOError: Couldn't find file 'main-menu-theme.ogg'.
+
+Linux-4.10.0-42-generic-x86_64-with-debian-stretch-sid
+Ren'Py 6.99.14.3135
+Mursil 0.0.1

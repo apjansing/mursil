@@ -1,0 +1,605 @@
+<Resources xmlns="http://www.visualnovelty.com/noveltyml">
+	<Set name="Melissa" scale="1.0">
+		<State name="Expression1">
+			<Image texture="Expression1 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression2">
+			<Image texture="Expression2 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression3">
+			<Image texture="Expression3 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression4">
+			<Image texture="Expression5 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression5">
+			<Image texture="Expression6 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression6">
+			<Image texture="Expression7 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression7">
+			<Image texture="Expression8 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression8">
+			<Image texture="Expression9 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression9">
+			<Image texture="Expression10 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression10">
+			<Image texture="Expression11 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression11">
+			<Image texture="Expression12 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression12">
+			<Image texture="Expression13 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression13">
+			<Image texture="Expression14 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression14">
+			<Image texture="Expression15 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression15">
+			<Image texture="Expression16 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression16">
+			<Image texture="Expression17 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression17">
+			<Image texture="Expression18 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression18">
+			<Image texture="Expression19 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression19">
+			<Image texture="Expression20 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression20">
+			<Image texture="Expression21 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression21">
+			<Image texture="Expression22 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression22">
+			<Image texture="Expression23 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression23">
+			<Image texture="Expression24 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression 24">
+			<Image texture="Expression25 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression25">
+			<Image texture="Expression26 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression26">
+			<Image texture="Expression27 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression27">
+			<Image texture="Expression28 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression28">
+			<Image texture="Expression29 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression29">
+			<Image texture="Expression30 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression30">
+			<Image texture="Expression30 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression31">
+			<Image texture="Expression31 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression32">
+			<Image texture="Expression32 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression33">
+			<Image texture="Expression33 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression34">
+			<Image texture="Expression34 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression35">
+			<Image texture="Expression35 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression36">
+			<Image texture="Expression36 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression37">
+			<Image texture="Expression37 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression38">
+			<Image texture="Expression38 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression39">
+			<Image texture="Expression39 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression40">
+			<Image texture="Expression40 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression41">
+			<Image texture="Expression41 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression42">
+			<Image texture="Expression42 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression43">
+			<Image texture="Expression43 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression44">
+			<Image texture="Expression44 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression45">
+			<Image texture="Expression45 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression46">
+			<Image texture="Expression46 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression47">
+			<Image texture="Expression47 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression48">
+			<Image texture="Expression48 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression49">
+			<Image texture="Expression49 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression50">
+			<Image texture="Expression50 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression51">
+			<Image texture="Expression51 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression52">
+			<Image texture="Expression52 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression53">
+			<Image texture="Expression53 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression54">
+			<Image texture="Expression54 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression55">
+			<Image texture="Expression55 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression56">
+			<Image texture="Expression56 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression57">
+			<Image texture="Expression57 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression58">
+			<Image texture="Expression58 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression59">
+			<Image texture="Expression59 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression60">
+			<Image texture="Expression60 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression61">
+			<Image texture="Expression61 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression62">
+			<Image texture="Expression62 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression63">
+			<Image texture="Expression63 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression64">
+			<Image texture="Expression64 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression65">
+			<Image texture="Expression65 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression66">
+			<Image texture="Expression66 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression67">
+			<Image texture="Expression67 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression68">
+			<Image texture="Expression68 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression69">
+			<Image texture="Expression69 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression70">
+			<Image texture="Expression70 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression71">
+			<Image texture="Expression71 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression72">
+			<Image texture="Expression72 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression73">
+			<Image texture="Expression73 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression74">
+			<Image texture="Expression74 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression75">
+			<Image texture="Expression75 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression76">
+			<Image texture="Expression76 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression77">
+			<Image texture="Expression77 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression78">
+			<Image texture="Expression78 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression79">
+			<Image texture="Expression79 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression80">
+			<Image texture="Expression80 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression81">
+			<Image texture="Expression81 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression82">
+			<Image texture="Expression82 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression83">
+			<Image texture="Expression83 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression84">
+			<Image texture="Expression84 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression85">
+			<Image texture="Expression85 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression86">
+			<Image texture="Expression86 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression87">
+			<Image texture="Expression87 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression88">
+			<Image texture="Expression88 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression89">
+			<Image texture="Expression89 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression90">
+			<Image texture="Expression90 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression91">
+			<Image texture="Expression91 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression92">
+			<Image texture="Expression92 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression93">
+			<Image texture="Expression93 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression94">
+			<Image texture="Expression94 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression95">
+			<Image texture="Expression95 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression96">
+			<Image texture="Expression96 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression97">
+			<Image texture="Expression97 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression98">
+			<Image texture="Expression98 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression99">
+			<Image texture="Expression99 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression100">
+			<Image texture="Expression100 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression101">
+			<Image texture="Expression101 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression102">
+			<Image texture="Expression102 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression103">
+			<Image texture="Expression103 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression104">
+			<Image texture="Expression104 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression105">
+			<Image texture="Expression105 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression106">
+			<Image texture="Expression106 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression107">
+			<Image texture="Expression107 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression108">
+			<Image texture="Expression108 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression109">
+			<Image texture="Expression109 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression110">
+			<Image texture="Expression110 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression111">
+			<Image texture="Expression111 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression112">
+			<Image texture="Expression112 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression113">
+			<Image texture="Expression113 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression114">
+			<Image texture="Expression114 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression115">
+			<Image texture="Expression115 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression116">
+			<Image texture="Expression116 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression117">
+			<Image texture="Expression117 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression118">
+			<Image texture="Expression118 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression119">
+			<Image texture="Expression119 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression120">
+			<Image texture="Expression120 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression121">
+			<Image texture="Expression121 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression122">
+			<Image texture="Expression122 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression123">
+			<Image texture="Expression123 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression124">
+			<Image texture="Expression124 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression125">
+			<Image texture="Expression125 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression126">
+			<Image texture="Expression126 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression127">
+			<Image texture="Expression127 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression128">
+			<Image texture="Expression128 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression129">
+			<Image texture="Expression129 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression130">
+			<Image texture="Expression130 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression131">
+			<Image texture="Expression131 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression132">
+			<Image texture="Expression132 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression133">
+			<Image texture="Expression133 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression134">
+			<Image texture="Expression134 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression135">
+			<Image texture="Expression135 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression136">
+			<Image texture="Expression136 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression137">
+			<Image texture="Expression137 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression138">
+			<Image texture="Expression138 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression139">
+			<Image texture="Expression139 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression140">
+			<Image texture="Expression140 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression141">
+			<Image texture="Expression141 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression142">
+			<Image texture="Expression142 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression143">
+			<Image texture="Expression143 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression144">
+			<Image texture="Expression144 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression145">
+			<Image texture="Expression145 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression146">
+			<Image texture="Expression146 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression147">
+			<Image texture="Expression147 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression148">
+			<Image texture="Expression148 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression149">
+			<Image texture="Expression149 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression150">
+			<Image texture="Expression150 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression151">
+			<Image texture="Expression151 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression152">
+			<Image texture="Expression152 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression153">
+			<Image texture="Expression153 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression154">
+			<Image texture="Expression154 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression155">
+			<Image texture="Expression155 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression156">
+			<Image texture="Expression156 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression157">
+			<Image texture="Expression157 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression158">
+			<Image texture="Expression158 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression159">
+			<Image texture="Expression159 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression160">
+			<Image texture="Expression160 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression161">
+			<Image texture="Expression161 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression162">
+			<Image texture="Expression162 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression163">
+			<Image texture="Expression163 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression164">
+			<Image texture="Expression164 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression165">
+			<Image texture="Expression165 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression166">
+			<Image texture="Expression166 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression167">
+			<Image texture="Expression167 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression168">
+			<Image texture="Expression168 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression169">
+			<Image texture="Expression169 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression170">
+			<Image texture="Expression170 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression171">
+			<Image texture="Expression171 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression172">
+			<Image texture="Expression172 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression173">
+			<Image texture="Expression173 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression174">
+			<Image texture="Expression174 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression175">
+			<Image texture="Expression175 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression176">
+			<Image texture="Expression176 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression177">
+			<Image texture="Expression177 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression178">
+			<Image texture="Expression178 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression179">
+			<Image texture="Expression179 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression180">
+			<Image texture="Expression180 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression181">
+			<Image texture="Expression181 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression182">
+			<Image texture="Expression182 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression183">
+			<Image texture="Expression183 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression184">
+			<Image texture="Expression184 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression185">
+			<Image texture="Expression185 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression186">
+			<Image texture="Expression186 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression187">
+			<Image texture="Expression187 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression188">
+			<Image texture="Expression188 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression189">
+			<Image texture="Expression189 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression190">
+			<Image texture="Expression190 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression191">
+			<Image texture="Expression191 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression192">
+			<Image texture="Expression192 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression193">
+			<Image texture="Expression193 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression194">
+			<Image texture="Expression194 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression195">
+			<Image texture="Expression195 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression196">
+			<Image texture="Expression196 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression197">
+			<Image texture="Expression197 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression198">
+			<Image texture="Expression198 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression199">
+			<Image texture="Expression199 - Melissa" name="Melissa" />
+		</State>
+		<State name="Expression200">
+			<Image texture="Expression199 - Melissa" name="Melissa" />
+		</State>
+		<Meta class="actor" />
+	</Set>
+</Resources>
